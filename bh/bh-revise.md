@@ -1,7 +1,7 @@
 ## Floor
 
-- the woodfloor
-- the stainless border on the entrance that was demonlished.
+- [x] the woodfloor
+- [ ] the stainless border on the entrance that was demonlished.
 
 ![test](pictures/test.png)
 
