@@ -3,7 +3,7 @@
 - the woodfloor
 - the stainless border on the entrance that was demonlished.
 
-(./pictures/test.png)[test]
+![test](pictures/test.png)
 
 ## Wall
 - wallpaper at the massage room
