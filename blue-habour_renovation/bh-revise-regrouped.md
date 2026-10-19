@@ -1,4 +1,4 @@
-## Blue Harbour
+# Blue Harbour
 
 ### Wall
 
@@ -39,19 +39,11 @@
 
 ---
 
-### Furnitures
-
-- [ ] Paint the front store chair blue
-
----
-
-## Galleria
+# Galleria
 
 ### Floor
 
 - [ ] The stainless border on the entrance that was demolished.
-
-![test](pictures/test.png)
 
 ### Door
 
@@ -118,4 +110,9 @@
 
 - [ ] Also coordinates on the things that we would have to buy
   mention on the uniform for BH
+
+
+### Furnitures
+
+- [ ] Paint the front store chair blue
 
