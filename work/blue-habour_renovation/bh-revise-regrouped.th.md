@@ -1,4 +1,4 @@
-## Blue Harbour
+# Blue Harbour
 
 ### ผนัง
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Galleria
+# Galleria
 
 ### พื้น ประตู
 
